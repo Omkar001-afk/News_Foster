@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/News_Foster/static/css/main.ea1455b2.chunk.css",
+    "main.js": "/News_Foster/static/js/main.e9a0a04c.chunk.js",
+    "main.js.map": "/News_Foster/static/js/main.e9a0a04c.chunk.js.map",
+    "runtime-main.js": "/News_Foster/static/js/runtime-main.b082cfc4.js",
+    "runtime-main.js.map": "/News_Foster/static/js/runtime-main.b082cfc4.js.map",
+    "static/js/2.166d33af.chunk.js": "/News_Foster/static/js/2.166d33af.chunk.js",
+    "static/js/2.166d33af.chunk.js.map": "/News_Foster/static/js/2.166d33af.chunk.js.map",
+    "static/js/3.91cbfb85.chunk.js": "/News_Foster/static/js/3.91cbfb85.chunk.js",
+    "static/js/3.91cbfb85.chunk.js.map": "/News_Foster/static/js/3.91cbfb85.chunk.js.map",
+    "index.html": "/News_Foster/index.html",
+    "static/css/main.ea1455b2.chunk.css.map": "/News_Foster/static/css/main.ea1455b2.chunk.css.map",
+    "static/js/2.166d33af.chunk.js.LICENSE.txt": "/News_Foster/static/js/2.166d33af.chunk.js.LICENSE.txt",
+    "static/media/Rocket.9dd581ae.gif": "/News_Foster/static/media/Rocket.9dd581ae.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b082cfc4.js",
+    "static/js/2.166d33af.chunk.js",
+    "static/css/main.ea1455b2.chunk.css",
+    "static/js/main.e9a0a04c.chunk.js"
+  ]
+}
