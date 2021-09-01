@@ -1,0 +1,275 @@
+// https://newsapi.org/v2/top-headlines?country=de&category=business&apiKey=API_KE
+business
+entertainment
+general
+health
+science
+sports
+technology
+
+{
+  "status": "ok",
+  "totalResults": 25,
+  "articles": [
+    {
+      "source": {
+        "id": "financial-times",
+        "name": "Financial Times"
+      },
+      "author": null,
+      "title": "Underestimating the enemy: why Biden’s Afghanistan exit went so badly wrong",
+      "description": "President faces biggest crisis after rapid Taliban advance forced US into chaotic evacuation",
+      "url": "https://www.ft.com/content/2f0c12f5-f501-41e2-b1e1-176e0b61f9d6",
+      "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4084524f-c4aa-48df-9ef0-19d269a2301a.jpg?source=next-opengraph&fit=scale-down&width=900",
+      "publishedAt": "2021-08-29T06:37:22.7031561Z",
+      "content": "On July 8, Joe Biden stepped into the East Room of the White House to deliver a confident update on the withdrawal of US troops from Afghanistan. \r\nThe US military had left Bagram air base, the hub o… [+8777 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news-in",
+        "name": "Google News (India)"
+      },
+      "author": "Shishir Gupta",
+      "title": "Indian military to brain-storm over Taliban in Afghanistan",
+      "description": "With the US leaving behind billions of dollars’ worth military hardware in Afghanistan, India is worried about the proliferation of conventional weapons and night vision devices among Taliban and Haqqani Network affiliated jihadists in Pakistan. | Latest News…",
+      "url": "https://www.hindustantimes.com/india-news/indian-military-to-brain-storm-over-taliban-in-afghanistan-101630209294194.html",
+      "urlToImage": "https://images.hindustantimes.com/img/2021/08/29/1600x900/indian-military_1630209630064_1630209637791.jpg",
+      "publishedAt": "2021-08-29T04:01:41+00:00",
+      "content": "The Indian military brass led by Chief of Defence Staff Gen Bipin Rawat is expected to brain-storm on impact of a Taliban regime in Afghanistan and its security ramifications on India and the sub-con… [+2683 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn-es",
+        "name": "CNN Spanish"
+      },
+      "author": "CNN",
+      "title": "\"Nadie tiene dinero\": El sistema bancario de Afganistán está colapsando",
+      "description": "\"Nadie tiene dinero\": Bajo el gobierno de los talibanes, el sistema bancario de Afganistán está colapsando",
+      "url": "https://cnnespanol.cnn.com/2021/08/28/nadie-tiene-dinero-bajo-el-gobierno-de-los-talibanes-el-sistema-bancario-de-afganistan-esta-colapsando-trax/",
+      "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2021/08/GettyImages-935497544.jpeg?quality=100&strip=info",
+      "publishedAt": "2021-08-29T02:29:34Z",
+      "content": "Una alianza entre EE.UU. y el Talibán para enfrentar a ISIS-K, ¿es viable? 2:00\r\n(CNN Business) -- El gobierno de los talibanes en Afganistán enfrenta una amenaza inminente: el sistema bancario de la… [+6020 chars]"
+    },
+    {
+      "source": {
+        "id": "independent",
+        "name": "Independent"
+      },
+      "author": "Lamiat Sabin",
+      "title": "Protest outside bank in Afghanistan as cash crisis deepens after Taliban seize control",
+      "description": "Among those protesting are civil servants who have not been paid for months",
+      "url": "http://www.independent.co.uk/asia/south-asia/afghanistan-bank-protests-taliban-evacuations-b1910487.html",
+      "urlToImage": "https://static.independent.co.uk/2021/08/28/10/Afghanistan_47752.jpg?width=1200&auto=webp&quality=75",
+      "publishedAt": "2021-08-29T02:00:33Z",
+      "content": "Hundreds of people in Afghanistan have protested outside a bank over their inability to withdraw money.\r\nIt comes as the countrys ailing economy is getting worse since the Talibans takeover earlier t… [+3334 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "'I'm like a prisoner': Life in a Taliban city",
+      "description": "People in Afghanistan’s third-largest city, Herat, explain how life has changed in recent weeks.",
+      "url": "http://www.bbc.co.uk/news/world-asia-58346909",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/00DE/production/_120222200_p09tdd32.jpg",
+      "publishedAt": "2021-08-28T23:22:20.7258734Z",
+      "content": "The BBC has been speaking to people in Herat, Afghanistans third-largest city, with a population estimated to be more than 500,000. \r\nIts a strategically important provincial capital in the west of t… [+275 chars]"
+    },
+    {
+      "source": {
+        "id": "independent",
+        "name": "Independent"
+      },
+      "author": "Colin Drury",
+      "title": "Afghan interpreters left to face wrath of Taliban after Home Office rules them ‘danger’ to UK security",
+      "description": "Years of service with British army rewarded with a letter refusing entry into UK following western withdrawal",
+      "url": "http://www.independent.co.uk/asia/south-asia/afghanistan-interpreters-taliban-home-office-b1910410.html",
+      "urlToImage": "https://static.independent.co.uk/2021/08/28/14/Afghan1.jpg?width=1200&auto=webp&quality=75",
+      "publishedAt": "2021-08-28T23:00:00Z",
+      "content": "Dozens of Afghan interpreters who worked for the British Army have been told they will not be allowed into the UK because they are a danger to [national] security, The Independent can reveal.\r\nThe me… [+3313 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "John Hudson, Karoun Demirjian, Dan Lamothe",
+      "title": "Biden to withdraw U.S. diplomatic staff from Afghanistan as future relationship with the Taliban remains unclear",
+      "description": "The withdrawal could complicate efforts to help Americans and allied Afghans get out after the U.S. military leaves the Kabul airport.",
+      "url": "https://www.washingtonpost.com/national-security/us-diplomatic-presence-kabul-ends/2021/08/28/470db3f8-0831-11ec-a266-7c7fe02fa374_story.html",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GFUGZEAIIYI6ZITGPR76AL5DOQ.jpg&w=1440",
+      "publishedAt": "2021-08-28T21:57:39Z",
+      "content": "The lack of a set plan all but ensures that the United States diplomatic presence in Kabul will lapse for weeks, months or even longer potentially complicating the Biden administrations ability to ma… [+7016 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Andrew Stanton",
+      "title": "Biden Says Drone Strike on ISIS-K Won't Be Last as Taliban Condemn Action",
+      "description": "The Taliban have been fighting ISIS-K for years but criticized the U.S. operation.",
+      "url": "https://www.newsweek.com/biden-says-drone-strike-isis-k-wont-last-taliban-condemn-action-1624020",
+      "urlToImage": "https://d.newsweek.com/en/full/1882569/president-joe-biden.jpg",
+      "publishedAt": "2021-08-28T21:50:18Z",
+      "content": "President Joe Biden said the airstrike that killed an ISIS-K planner will not be the United States' only form of retaliation for the attack that killed 13 U.S. armed service members at the Kabul inte… [+3265 chars]"
+    },
+    {
+      "source": {
+        "id": "handelsblatt",
+        "name": "Handelsblatt"
+      },
+      "author": "Anne Schwedt",
+      "title": "+++ News zur Afghanistan-Krise +++",
+      "description": "Letzter britischer Militärflieger verlässt Kabul +++ Frankreich verhandelt mit Taliban über weitere Evakuierungen +++ Taliban bereiten Regierungsbildung vor +++ Der Newsblog.",
+      "url": "https://www.handelsblatt.com/politik/international/-news-zur-afghanistan-krise-joe-biden-kuendigt-weitere-vergeltungsangriffe-an-bei-erstem-angriff-wurden-bereits-zwei-hochrangige-is-mitglieder-getoetet/27519718.html",
+      "urlToImage": "https://www.handelsblatt.com/images/u-s-president-joe-biden-delivers-remarks-about-afghanistan-in-washington/27554812/1-format2003.jpg",
+      "publishedAt": "2021-08-28T21:42:36+00:00",
+      "content": "<li>Herr Franz Pfaff27.08.2021, 11:31 Uhr\r\nWenn Herr Maas Zuversicht verbreitet, ist allerhöchste Vorsicht geboten.Schon bei seinem Amtsantritt hatte ich gesagt, dass ihm der Anzug \"Außenminister\" vi… [+3606 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "HALELUYA HADERO and GLENN GAMBOA",
+      "title": "How Instagram star helped rescue dozens from Afghanistan",
+      "description": "Dozens of desperate Afghans who had been trying to flee the Taliban before Tuesday's deadline for the U.S. withdrawal from Kabul made it to safety with help from an unexpected place: Instagram influencer Quentin Quarantino.",
+      "url": "https://apnews.com/dcf861df931aa3a5441609adaf639b57",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/b719bead42a44c389867f5795ba30126/1485.jpeg",
+      "publishedAt": "2021-08-28T21:29:25Z",
+      "content": "Dozens of desperate Afghans who had been trying to flee the Taliban before Tuesday's deadline for the U.S. withdrawal from Kabul made it to safety with help from an unexpected place: Instagram influe… [+7286 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news-ca",
+        "name": "Google News (Canada)"
+      },
+      "author": "Al Jazeera",
+      "title": "Taliban blocks Kabul airport to most as foreign airlifts wane",
+      "description": "Taliban says it is ready to take over Kabul airport and already holds some positions, but Pentagon denies claim.",
+      "url": "https://www.aljazeera.com/news/2021/8/28/taliban-blocks-kabul-airport-to-most-as-foreign-airlifts-wane",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2021/08/2021-08-27T171842Z_418627008_RC2TDP98RWTK_RTRMADP_3_AFGHANISTAN-CONFLICT.jpg?resize=1200%2C630",
+      "publishedAt": "2021-08-28T20:58:10+00:00",
+      "content": "Taliban forces have sealed off Kabuls airport to most Afghans hoping for evacuation, as the United States and its allies wound down a chaotic airlift that will end their troops two decades in Afghani… [+4240 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera",
+      "title": "Taliban blocks Kabul airport to most as foreign airlifts wane",
+      "description": "Taliban says it is ready to take over Kabul airport and already holds some positions, but Pentagon denies claim.",
+      "url": "http://www.aljazeera.com/news/2021/8/28/taliban-blocks-kabul-airport-to-most-as-foreign-airlifts-wane",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2021/08/2021-08-27T171842Z_418627008_RC2TDP98RWTK_RTRMADP_3_AFGHANISTAN-CONFLICT.jpg?resize=1200%2C630",
+      "publishedAt": "2021-08-28T20:55:25Z",
+      "content": "Taliban forces have sealed off Kabuls airport to most Afghans hoping for evacuation, as the United States and its allies wound down a chaotic airlift that will end their troops two decades in Afghani… [+4240 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Sune Engel Rasmussen, Zamir Saar, James Marson",
+      "title": "Taliban Move to Ban Opium Production in Afghanistan",
+      "description": "Prices of the raw material for heroin soar in anticipation; the group is seeking acceptance from the international community",
+      "url": "https://www.wsj.com/articles/taliban-afghanistan-heroin-ban-opium-production-11630181316",
+      "urlToImage": "https://images.wsj.net/im-390758/social",
+      "publishedAt": "2021-08-28T20:08:00Z",
+      "content": "Taliban leaders, seeking international acceptance after seizing power in Afghanistan, have told farmers to stop cultivating opium poppies, residents of some major poppy-growing areas say. This has ca… [+1155 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Jason Lemon",
+      "title": "Video of Mike Pompeo's Contradictory Afghanistan Remarks Viewed Over 900K Times",
+      "description": "The former secretary of state under the Trump administration played a role in the peace deal with Taliban.",
+      "url": "https://www.newsweek.com/video-mike-pompeos-contradictory-afghanistan-remarks-viewed-over-900k-times-1624013",
+      "urlToImage": "https://d.newsweek.com/en/full/1882558/mike-pompeo.jpg",
+      "publishedAt": "2021-08-28T19:53:53+00:00",
+      "content": "A video montage of former Secretary of State Mike Pompeo's remarks about the U.S. withdrawal from Afghanistan while he served in the Trump administration compared to his comments now that President J… [+4127 chars]"
+    },
+    {
+      "source": {
+        "id": "nrk",
+        "name": "NRK"
+      },
+      "author": "Yama Wolasmal, Laila Ø. Bakken",
+      "title": "Afghansk spesialsoldat på sykehus i Oslo: – Tror ikke på Talibans løfter",
+      "description": "Lotfullah Moslem var spesialsoldat i den afghanske hæren. Han kjempet mot Taliban til siste slutt. Og har ingen tro på at de har endret seg.",
+      "url": "https://www.nrk.no/urix/afghansk-spesialsoldat-pa-sykehus-i-oslo_-_-tror-ikke-pa-talibans-lofter-1.15627688",
+      "urlToImage": "https://gfx.nrk.no/Vo34EgWKPn0JZrHbkrfcbg7UXolnheY79dVgvttvI1sA.jpg",
+      "publishedAt": "2021-08-28T18:19:10Z",
+      "content": "Kulen fra Talibans snikskytter var kun centimeter fra å ta livet av ham.\r\nSpesialenheten 333 som Lotfullah Moslem tilhørte hadde havnet i et bakholdsangrep i den østlige Laghman-provinsen, vel halvan… [+6385 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Inside Story",
+      "title": "How should social media companies handle the Taliban?",
+      "description": "Tech giants face challenge over disseminating Taliban content as group prepares to form new government in Afghanistan.",
+      "url": "http://www.aljazeera.com/program/inside-story/2021/8/28/how-should-social-media-companies-handle-the-taliban",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2021/08/h_57120799.jpg?resize=1200%2C630",
+      "publishedAt": "2021-08-28T18:05:27Z",
+      "content": "Fearful of Taliban rule, thousands are fleeing the country, while those who remain face uncertainty."
+    },
+    {
+      "source": {
+        "id": "the-huffington-post",
+        "name": "The Huffington Post"
+      },
+      "author": "AP",
+      "title": "Taliban largely seal off Kabul airport as airlift winds down",
+      "description": "New layers of checkpoints sprang up on roads leading to the airport, some manned by uniformed Taliban fighters.",
+      "url": "https://www.huffpost.com/entry/taliban-largely-seal-off-kabul-airport-as-airlift-winds-down_n_612a3c54e4b09266434c6d9a",
+      "urlToImage": "https://img.huffingtonpost.com/asset/612a3e5326000042d353f9b0.jpeg?cache=2emkgc4y1g&ops=1778_1000",
+      "publishedAt": "2021-08-28T13:49:49Z",
+      "content": "KABUL, Afghanistan (AP) The Taliban deployed extra forces around Kabuls airport Saturday to prevent large crowds from gathering after a devastating suicide attack two days earlier, as the massive U.S… [+6881 chars]"
+    },
+    {
+      "source": {
+        "id": "focus",
+        "name": "Focus"
+      },
+      "author": "FOCUS Online",
+      "title": "Bundeswehr-Soldat beging \"tragischen Fehler\" - jetzt zittert Aref vor Taliban",
+      "description": "Wie chaotisch die deutsche Evakuierungsmission in Afghanistan war, wird erst im Nachhinein so richtig klar. Der Fall Aref Karimi zeigt dies ganz besonders.",
+      "url": "https://www.focus.de/politik/ausland/dramatischer-fehler-soldaten-hielten-seine-dokumente-fuer-faelschungen-jetzt-sitzt-aref-in-kabul-fest_id_20897105.html",
+      "urlToImage": "https://p6.focus.de/img/politik/deutschland/id_20896475/hunderte-von-menschen-in-der-naehe-eines-evakuierungskontrollpunkts-auf-dem-gelaende-des-flughafens-kabul.-dort-hatte-es-zuvor-einen-anschlag-mit-mehreren-toten-gegeben..jpg?im=Crop%3D%280%2C145%2C2048%2C1024%29%3BResize%3D%281200%2C627%29&hash=cb9a4b9512abb1c352093c47c2d4fbe123859afbf0ca0bde5f4db9652677f3c8",
+      "publishedAt": "2021-08-28T12:09:49Z",
+      "content": "Wie chaotisch die deutsche Evakuierungsmission in Afghanistan war, wird erst im Nachhinein so richtig klar. Der Fall Aref Karimi zeigt dies ganz besonders.Eigentlich sah es so aus, als würde alles gu… [+1576 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Inside Story",
+      "title": "Is the Taliban up to the security challenges in Afghanistan?",
+      "description": "Dozens of people killed in bombing outside Kabul airport by ISIL affiliate.",
+      "url": "http://www.aljazeera.com/program/inside-story/2021/8/28/is-the-taliban-up-to-the-security-challenges-in-afghanistan",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2021/08/image-71.jpg?resize=1200%2C630",
+      "publishedAt": "2021-08-28T09:44:46Z",
+      "content": "Bombing claimed by ISIL affiliate around Kabuls airport killed at least 175 people and wounded more than 100 others."
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "SAYED ZIARMAL HASHEMI, RAHIM FAIEZ, JILL LAWLESS and ELLEN KNICKMEYER",
+      "title": "Taliban guard airport as most NATO troops leave Afghanistan",
+      "description": "KABUL, Afghanistan (AP) — Taliban forces sealed off Kabul's airport Saturday to most Afghans hoping for evacuation, as the U.S. and its allies were ending a chaotic airlift that will end their troops' two decades in Afghanistan.",
+      "url": "https://apnews.com/957bdc5ded58a337572313d27be13e73",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/01b554589417438bb886d39a0c49b3c6/1920.jpeg",
+      "publishedAt": "2021-08-28T09:37:46Z",
+      "content": "KABUL, Afghanistan (AP) — Taliban forces sealed off Kabul's airport Saturday to most Afghans hoping for evacuation, as the U.S. and its allies were ending a chaotic airlift that will end their troops… [+8085 chars]"
+    }
+  ]
+}
