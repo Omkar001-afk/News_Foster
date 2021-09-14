@@ -3,7 +3,7 @@ import NewItem from "../NewsItem/NewItem";
 import Spinner from "../Spinner/Spinner";
 import InfiniteScroll from "react-infinite-scroll-component";
 
-const News = ({ country, category, pageSize }) => {
+const News = ({ country, category, pageSize, setProgress }) => {
   const [articles, setArticles] = useState([]);
   const [loading, setLoading] = useState(true);
   const [page, setPage] = useState(1);
@@ -14,18 +14,22 @@ const News = ({ country, category, pageSize }) => {
   };
 
   const update = async () => {
+    setProgress(10);
     const url = `https://newsapi.org/v2/top-headlines?country=${country}&category=${category}&apiKey=abaa6107267d44c1bb3130af863788d7&page=${page}&pageSize=${pageSize}`;
     {
       setLoading(true);
     }
     let data = await fetch(url);
+    setProgress(30);
     let parsedData = await data.json();
+    setProgress(70);
     // const setArticles = parsedData.articles;
     // console.log(setArticles);
 
     setArticles(parsedData.articles);
     settotalResult(parsedData.totalResults);
     setLoading(false);
+    setProgress(100);
   };
 
   useEffect(() => {

@@ -1,4 +1,5 @@
 {
+  "homepage": "https://Omkar001-afk.github.io/News_Foster",
   "name": "news-papr",
   "version": "0.1.0",
   "private": true,
@@ -11,9 +12,12 @@
     "react-infinite-scroll-component": "^6.1.0",
     "react-router-dom": "^5.2.1",
     "react-scripts": "4.0.3",
+    "react-top-loading-bar": "^2.0.1",
     "web-vitals": "^1.0.1"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -36,5 +40,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
   }
 }
